@@ -1,0 +1,271 @@
+console.log(netflixOriginalsResponse.data.results);
+answer:-
+(20) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+0: {backdrop_path: "/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg", first_air_date: "2016-01-25", genre_ids: Array(2), id: 63174, name: "Lucifer", …}
+1: {backdrop_path: "/aGULNElJVpSru19WP2pUjopPX1U.jpg", first_air_date: "2021-07-28", genre_ids: Array(2), id: 128252, name: "The Snitch Cartel: Origins", …}
+2: {backdrop_path: "/9nBVkNBe4x9HKDAzxjxlIqecxCW.jpg", first_air_date: "2021-06-25", genre_ids: Array(2), id: 126280, name: "Sex/Life", …}
+3: {backdrop_path: "/pMkjcQEdqSlVSjngH5TLEBS2TN.jpg", first_air_date: "2018-10-05", genre_ids: Array(3), id: 76669, name: "Elite", …}
+4: {backdrop_path: "/mPZkTtOlZp1IB43zTSPYLfrU0J3.jpg", first_air_date: "2020-05-22", genre_ids: Array(1), id: 102903, name: "Control Z", …}
+5: {backdrop_path: "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg", first_air_date: "2017-05-02", genre_ids: Array(2), id: 71446, name: "Money Heist", …}
+6: {backdrop_path: "/gL8myjGc2qrmqVosyGm5CWTir9A.jpg", first_air_date: "2018-05-02", genre_ids: Array(2), id: 77169, name: "Cobra Kai", …}
+7: {backdrop_path: "/wu444tM9YBllq9UcBv5TeidO3j3.jpg", first_air_date: "2020-01-31", genre_ids: Array(3), id: 91557, name: "Ragnarok", …}
+8: {backdrop_path: "/1yvyMxmnZq9zrYSwpcBfNd6AdEZ.jpg", first_air_date: "2021-08-06", genre_ids: Array(3), id: 124416, name: "Hit & Run", …}
+9: {backdrop_path: "/iq5L971DFW1SwLJdvl7OpPI1QeZ.jpg", first_air_date: "2021-06-17", genre_ids: Array(3), id: 114868, name: "Record of Ragnarok", …}
+10: {backdrop_path: "/rcA17r3hfHtRrk3Xs3hXrgGeSGT.jpg", first_air_date: "2016-07-15", genre_ids: Array(3), id: 66732, name: "Stranger Things", …}
+11: {backdrop_path: "/7UKgB00W2zFeNQl42SJ3XkJXtql.jpg", first_air_date: "2019-01-11", genre_ids: Array(2), id: 81356, name: "Sex Education", …}
+12: {backdrop_path: "/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg", first_air_date: "2021-06-04", genre_ids: Array(2), id: 103768, name: "Sweet Tooth", …}
+13: {backdrop_path: "/pdhFFkr0GJxKkV7TWisnDKRpsPF.jpg", first_air_date: "2021-07-07", genre_ids: Array(1), id: 127571, name: "The War Next-door", …}
+14: {backdrop_path: "/qJxzjUjCpTPvDHldNnlbRC4OqEh.jpg", first_air_date: "2019-02-15", genre_ids: Array(3), id: 75006, name: "The Umbrella Academy", …}
+15: {backdrop_path: "/mF25LlPgSek0Wgv6NUKSlzLLQBQ.jpg", first_air_date: "2021-06-17", genre_ids: Array(3), id: 104157, name: "Katla", …}
+16: {backdrop_path: "/dYvIUzdh6TUv4IFRq8UBkX7bNNu.jpg", first_air_date: "2021-03-24", genre_ids: Array(3), id: 120168, name: "Who Killed Sara?", …}
+17: {backdrop_path: "/eOLKWXXbcZJg91Jf1Fn7odUirl3.jpg", first_air_date: "2021-07-23", genre_ids: Array(3), id: 96658, name: "Masters of the Universe: Revelation", …}
+18: {backdrop_path: "/4YKkS95v9o9c0tBVA46xIn6M1tx.jpg", first_air_date: "2021-05-07", genre_ids: Array(4), id: 93484, name: "Jupiter's Legacy", …}
+19: {backdrop_path: "/aPsyg7Q9xSUy3AshffqwWPc69Ir.jpg", first_air_date: "2018-10-26", genre_ids: Array(3), id: 79242, name: "Chilling Adventures of Sabrina", …}
+
+
+
+
+
+
+
+
+
+Har object me 
+0:
+backdrop_path: "/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg"
+first_air_date: "2016-01-25"
+genre_ids: (2) [80, 10765]
+id: 63174
+name: "Lucifer"
+origin_country: ["US"]
+original_language: "en"
+original_name: "Lucifer"
+overview: "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape."
+popularity: 882.038
+poster_path: "/ekZobS8isE6mA53RAiGDG93hBxL.jpg"
+vote_average: 8.5
+vote_count: 9945
+  ======================================================================================
+{
+  "netflixOriginals": [
+    "{backdrop_path: \"/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg\",…}",
+    "{backdrop_path: \"/aGULNElJVpSru19WP2pUjopPX1U.jpg\",…}",
+    "{backdrop_path: \"/9nBVkNBe4x9HKDAzxjxlIqecxCW.jpg\",…}",
+    "{backdrop_path: \"/pMkjcQEdqSlVSjngH5TLEBS2TN.jpg\", …}",
+    "{backdrop_path: \"/mPZkTtOlZp1IB43zTSPYLfrU0J3.jpg\",…}",
+    "{backdrop_path: \"/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg\",…}",
+    "{backdrop_path: \"/gL8myjGc2qrmqVosyGm5CWTir9A.jpg\",…}",
+    "{backdrop_path: \"/wu444tM9YBllq9UcBv5TeidO3j3.jpg\",…}",
+    "{backdrop_path: \"/1yvyMxmnZq9zrYSwpcBfNd6AdEZ.jpg\",…}",
+    "{backdrop_path: \"/iq5L971DFW1SwLJdvl7OpPI1QeZ.jpg\",…}",
+    "{backdrop_path: \"/rcA17r3hfHtRrk3Xs3hXrgGeSGT.jpg\",…}",
+    "{backdrop_path: \"/7UKgB00W2zFeNQl42SJ3XkJXtql.jpg\",…}",
+    "{backdrop_path: \"/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg\",…}",
+    "{backdrop_path: \"/pdhFFkr0GJxKkV7TWisnDKRpsPF.jpg\",…}",
+    "{backdrop_path: \"/qJxzjUjCpTPvDHldNnlbRC4OqEh.jpg\",…}",
+    "{backdrop_path: \"/mF25LlPgSek0Wgv6NUKSlzLLQBQ.jpg\",…}",
+    "{backdrop_path: \"/dYvIUzdh6TUv4IFRq8UBkX7bNNu.jpg\",…}",
+    "{backdrop_path: \"/eOLKWXXbcZJg91Jf1Fn7odUirl3.jpg\",…}",
+    "{backdrop_path: \"/4YKkS95v9o9c0tBVA46xIn6M1tx.jpg\",…}",
+    "{backdrop_path: \"/aPsyg7Q9xSUy3AshffqwWPc69Ir.jpg\",…}"
+  ],
+  "trendingNow": [
+    "{adult: false, backdrop_path: \"/jlGmlFOcfo8n5tURmhC…}",
+    "{adult: false, backdrop_path: \"/aO9Nnv9GdwiPdkNO79T…}",
+    "{adult: false, backdrop_path: \"/xXHZeb1yhJvnSHPzZDq…}",
+    "{adult: false, backdrop_path: \"/8yhWlFcJ8zCqjfCvLy3…}",
+    "{adult: false, backdrop_path: \"/nprqOIEfiMMQx16lgKe…}",
+    "{backdrop_path: \"/4N6zEMfZ57zNEQcM8gWeERFupMv.jpg\",…}",
+    "{adult: false, backdrop_path: \"/eP07auW0baxhbflms6o…}",
+    "{adult: false, backdrop_path: \"/7WJjFviFBffEJvkAms4…}",
+    "{adult: false, backdrop_path: \"/orGlr1vHTgbDkGJPwuB…}",
+    "{adult: false, backdrop_path: \"/dq18nCTTLpy9PmtzZI6…}",
+    "{adult: false, backdrop_path: \"/ckCrunvxJ1SqL1w4goJ…}",
+    "{adult: false, backdrop_path: \"/j28p5VwI5ieZnNwfeuZ…}",
+    "{adult: false, backdrop_path: \"/swcF9sPlruc6s4gAHuW…}",
+    "{adult: false, backdrop_path: \"/8s4h9friP6Ci3adRGah…}",
+    "{backdrop_path: \"/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg\",…}",
+    "{adult: false, backdrop_path: \"/7BkkPaXnYo82T2pLSJP…}",
+    "{adult: false, backdrop_path: \"/1TkU6gJNpNPZzZdQVvd…}",
+    "{adult: false, backdrop_path: \"/6MKr3KgOLmzOP6MSuZE…}",
+    "{adult: false, backdrop_path: \"/lzLzKXq2C0kL5Pu7VW5…}",
+    "{adult: false, backdrop_path: \"/4Tz8V8aRim8cFgKEWpr…}"
+  ],
+  "TopRated": [
+    "{adult: false, backdrop_path: \"/gNBCvtYyGPbjPCT1k3M…}",
+    "{adult: false, backdrop_path: \"/1EAxNqdkVnp48a7NUuN…}",
+    "{adult: false, backdrop_path: \"/9Xw0I5RV2ZqNLpul6lX…}",
+    "{adult: false, backdrop_path: \"/jtAI6OJIWLWiRItNSZo…}",
+    "{adult: false, backdrop_path: \"/rSPw7tgCH9c6NqICZef…}",
+    "{adult: false, backdrop_path: \"/fQq1FWp1rC89xDrRMuy…}",
+    "{adult: false, backdrop_path: \"/w2uGvCpMtvRqZg6waC1…}",
+    "{adult: false, backdrop_path: \"/loRmRzQXZeqG78TqZuy…}",
+    "{adult: false, backdrop_path: \"/poec6RqOKY9iSiIUmfy…}",
+    "{adult: false, backdrop_path: \"/dIWwZW7dJJtqC6CgWzY…}",
+    "{adult: false, backdrop_path: \"/lQAe1hfWYDdYypRVdzT…}",
+    "{adult: false, backdrop_path: \"/Ab8mkHmkYADjU7wQiOk…}",
+    "{adult: false, backdrop_path: \"/l5K9elugftlcyIHHm4n…}",
+    "{adult: false, backdrop_path: \"/TU9NIjwzjoKPwQHoHsh…}",
+    "{adult: false, backdrop_path: \"/9guoVF7zayiiUq5ulKQ…}",
+    "{adult: false, backdrop_path: \"/5Nz25DPXfQaSpDgce42…}",
+    "{adult: false, backdrop_path: \"/qqHQsStV6exghCM7zbO…}",
+    "{adult: false, backdrop_path: \"/5MgMCnslrxQfOfaq6T5…}",
+    "{adult: false, backdrop_path: \"/alQqTpmEkxSLgajfEYT…}",
+    "{adult: false, backdrop_path: \"/suaEOtk1N1sgg2MTM7o…}"
+  ],
+  "ActionMovies": [
+    {
+      "adult": false,
+      "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        35
+      ],
+      "id": 436969,
+      "original_language": "en",
+      "original_title": "The Suicide Squad",
+      "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+      "popularity": 4013.503,
+      "poster_path": "/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg",
+      "release_date": "2021-07-28",
+      "title": "The Suicide Squad",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 2969
+    },
+    "{adult: false, backdrop_path: \"/7WJjFviFBffEJvkAms4…}",
+    "{adult: false, backdrop_path: \"/AjQgFtfXTmmMVuaH2Vf…}",
+    "{adult: false, backdrop_path: \"/dq18nCTTLpy9PmtzZI6…}",
+    "{adult: false, backdrop_path: \"/lzLzKXq2C0kL5Pu7VW5…}",
+    "{adult: false, backdrop_path: \"/j28p5VwI5ieZnNwfeuZ…}",
+    "{adult: false, backdrop_path: \"/xXHZeb1yhJvnSHPzZDq…}",
+    "{adult: false, backdrop_path: \"/wjQXZTlFM3PVEUmKf1s…}",
+    "{adult: false, backdrop_path: \"/yizL4cEKsVvl17Wc1mG…}",
+    "{adult: false, backdrop_path: \"/rUoGZuscSG4fQP3I56n…}",
+    "{adult: false, backdrop_path: \"/6tPOZmNQ1tbzlhcMmyh…}",
+    "{adult: false, backdrop_path: \"/wPjtacig0kIkVcTQmXo…}",
+    "{adult: false, backdrop_path: \"/tehpKMsls621GT9WUQi…}",
+    "{adult: false, backdrop_path: \"/nprqOIEfiMMQx16lgKe…}",
+    "{adult: false, backdrop_path: \"/8XiTPU1zfy41Xgg96TC…}",
+    "{adult: false, backdrop_path: \"/iJ2HVOZT9Kjayrhy21p…}",
+    "{adult: false, backdrop_path: \"/9DZlZvgh9dIGcri79hv…}",
+    "{adult: false, backdrop_path: \"/9yBVqNruk6Ykrwc32qr…}",
+    "{adult: false, backdrop_path: \"/xPpXYnCWfjkt3zzE0dp…}",
+    "{adult: false, backdrop_path: \"/inJjDhCjfhh3RtrJWBm…}"
+  ],
+  "ComedyMovies": [
+    "{adult: false, backdrop_path: \"/jlGmlFOcfo8n5tURmhC…}",
+    "{adult: false, backdrop_path: \"/swcF9sPlruc6s4gAHuW…}",
+    "{adult: false, backdrop_path: \"/7WJjFviFBffEJvkAms4…}",
+    "{adult: false, backdrop_path: \"/uHmvk8FnoxpgujDU0RI…}",
+    "{adult: false, backdrop_path: \"/8s4h9friP6Ci3adRGah…}",
+    "{adult: false, backdrop_path: \"/j28p5VwI5ieZnNwfeuZ…}",
+    "{adult: false, backdrop_path: \"/gX5UrH1TLVVBwI7Wxpl…}",
+    "{adult: false, backdrop_path: \"/rUoGZuscSG4fQP3I56n…}",
+    "{adult: false, backdrop_path: \"/620hnMVLu6RSZW6a5rw…}",
+    "{adult: false, backdrop_path: \"/wPjtacig0kIkVcTQmXo…}",
+    "{adult: false, backdrop_path: \"/6MKr3KgOLmzOP6MSuZE…}",
+    "{adult: false, backdrop_path: \"/fBNTDtIyt9HOYhUXuEE…}",
+    "{adult: false, backdrop_path: \"/qnFxKwYDY7vfc3DBu3m…}",
+    "{adult: false, backdrop_path: \"/2BftdeCkD7uf68KUxaK…}",
+    "{adult: false, backdrop_path: \"/bNiuvw5cZBAUZ7OtH7Z…}",
+    "{adult: false, backdrop_path: \"/7BkkPaXnYo82T2pLSJP…}",
+    "{adult: false, backdrop_path: \"/zsH3iW60T1t2HBTtrSK…}",
+    "{adult: false, backdrop_path: \"/6FzuNrApEc71aJ3Cwwk…}",
+    "{adult: false, backdrop_path: \"/rlNnwObbMu5G2FaOUla…}",
+    "{adult: false, backdrop_path: \"/c7dFSqZQYqNNJVpacpI…}"
+  ],
+  "HorrorMovies": [
+    "{adult: false, backdrop_path: \"/tehpKMsls621GT9WUQi…}",
+    "{adult: false, backdrop_path: \"/pUc51UUQb1lMLVVkDCa…}",
+    "{adult: false, backdrop_path: \"/pG3m1z6eSjcKHCVa8rQ…}",
+    "{adult: false, backdrop_path: \"/mG4IdVQoMSOrjYGGTbx…}",
+    "{adult: false, backdrop_path: \"/z2UtGA1WggESspi6KOX…}",
+    "{adult: false, backdrop_path: \"/fKQt8d5eY8Aa1kr0PdA…}",
+    "{adult: false, backdrop_path: \"/zm2kMjiz0u6qdn2XKbE…}",
+    "{adult: false, backdrop_path: \"/c0izdYdnTe4uMRifHgv…}",
+    "{adult: false, backdrop_path: \"/2kmAwtw3RqFX0vJq7hK…}",
+    "{adult: false, backdrop_path: \"/qi6Edc1OPcyENecGtz8…}",
+    "{adult: false, backdrop_path: \"/iTgM25ftE7YtFgZwUZu…}",
+    "{adult: false, backdrop_path: \"/twWLgj5hHFUI9PWE5vp…}",
+    "{adult: false, backdrop_path: \"/jw6ASGRT2gi8EjCImpG…}",
+    "{adult: false, backdrop_path: \"/uEWCi9fc89m9qS5SNsh…}",
+    "{adult: false, backdrop_path: \"/5C8bfwglg91uZhc2fbf…}",
+    "{adult: false, backdrop_path: \"/e3JXvbbWNARPqMURImT…}",
+    "{adult: false, backdrop_path: \"/fRrpOILyXuWaWLmqF7k…}",
+    "{adult: false, backdrop_path: \"/6viJBbovWxJYavdjPy7…}",
+    "{adult: false, backdrop_path: \"/syjh4WJARo5gwjyUYxO…}",
+    "{adult: false, backdrop_path: \"/g15PR8eQV9DehSWlagv…}"
+  ],
+  "RomanticMovies": [
+    "{adult: false, backdrop_path: \"/8yhWlFcJ8zCqjfCvLy3…}",
+    "{adult: false, backdrop_path: \"/7BkkPaXnYo82T2pLSJP…}",
+    "{adult: false, backdrop_path: \"/TB88CYene7rzMs32FzF…}",
+    "{adult: false, backdrop_path: \"/4Tz8V8aRim8cFgKEWpr…}",
+    "{adult: false, backdrop_path: \"/6hgItrYQEG33y0I7yP2…}",
+    "{adult: false, backdrop_path: \"/nksMy0Uc7Bdg9dAuAV2…}",
+    "{adult: false, backdrop_path: \"/m7fSEjYAB46U9p4xYQ0…}",
+    "{adult: false, backdrop_path: \"/nRwjREvdo65y1Uqg4Kh…}",
+    "{adult: false, backdrop_path: \"/yjmqROw9fa9GahuUxvB…}",
+    "{adult: false, backdrop_path: \"/kzIiKLccwuzD3qD5OHF…}",
+    "{adult: false, backdrop_path: \"/4QA7pKpmNgeXkhN1FFI…}",
+    "{adult: false, backdrop_path: \"/vRtaOcBs5ViVjquEtAG…}",
+    "{adult: false, backdrop_path: \"/63xBsC6u54uJggUd7mn…}",
+    "{adult: false, backdrop_path: \"/997ToEZvF2Obp9zNZbY…}",
+    "{adult: false, backdrop_path: \"/mfRGScUMc88E83bEY12…}",
+    "{adult: false, backdrop_path: \"/5MgMCnslrxQfOfaq6T5…}",
+    "{adult: false, backdrop_path: \"/itiz2OBK4ns6XT0ufXt…}",
+    "{adult: false, backdrop_path: \"/dIWwZW7dJJtqC6CgWzY…}",
+    "{adult: false, backdrop_path: \"/9ywA15OAiwjSTvg3cBs…}",
+    "{adult: false, backdrop_path: \"/wO5QSWZPBT71gMLvrRe…}"
+  ],
+  "Documentries": [
+    "{adult: false, backdrop_path: \"/y1BomwRA41Cr8s69G9v…}",
+    "{adult: false, backdrop_path: \"/uO6ZUez70Twan92pqoV…}",
+    "{adult: false, backdrop_path: null, genre_ids: Arra…}",
+    "{adult: false, backdrop_path: \"/uILX4gGU9OqpndR7JXE…}",
+    "{adult: false, backdrop_path: \"/judXeFCXqOluMkGmnV9…}",
+    "{adult: false, backdrop_path: \"/slh9qCbyDcMN2rC9Fiu…}",
+    "{adult: false, backdrop_path: \"/G3vrVlsqsNPSYvyoG2l…}",
+    "{adult: false, backdrop_path: \"/1Gf5YdhlJ1G7Tf7WkSR…}",
+    "{adult: false, backdrop_path: \"/2HTz9iroaHnXW53dCR0…}",
+    "{adult: false, backdrop_path: \"/qK2hJo7UhIjeu5qUSok…}",
+    "{adult: false, backdrop_path: \"/xOukYlFEuiY9FZXd5kj…}",
+    "{adult: false, backdrop_path: \"/mixAxUgBRIq83luPKok…}",
+    "{adult: false, backdrop_path: \"/4rI3GkUH2uJmACFFTMp…}",
+    "{adult: false, backdrop_path: \"/eGa0w1EbNnb2wF696NV…}",
+    "{adult: false, backdrop_path: \"/chKGRT7RjkHWlU0hRFQ…}",
+    "{adult: false, backdrop_path: \"/7OlCmUwpJzJepUaOZ0n…}",
+    "{adult: false, backdrop_path: \"/94DkCX8jbVeJuC98oCG…}",
+    "{adult: false, backdrop_path: \"/dZ1sOBUIrgX4iIEKjo6…}",
+    "{adult: false, backdrop_path: \"/z1UxwFCSCepPRosjOBV…}",
+    "{adult: false, backdrop_path: \"/yCpGGDCabhweKMdJpjT…}"
+  ]
+}
+
+
+
+/***************************************************/
+this.setState({
+  bannerImage:randomMovie
+})
+
+{
+  "bannerImage": {
+    "backdrop_path": "/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+    "first_air_date": "2016-01-25",
+    "genre_ids": "[80, 10765]",
+    "id": 63174,
+    "name": "Lucifer",
+    "origin_country": "[\"US\"]",
+    "original_language": "en",
+    "original_name": "Lucifer",
+    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "popularity": 882.038,
+    "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+    "vote_average": 8.5,
+    "vote_count": 9945
+  }
+}
